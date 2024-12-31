@@ -18,7 +18,7 @@ const Card = () => {
             <div className="h-1 w-40 bg-pink-400  rounded" />
           </div>
           <p className="lg:w-1/2 w-full  leading-relaxed text-white">
-          Welcome to Creative Corner, a space where imagination meets reality. Here, we explore the world of creativity—from art and design to innovative ideas and creative thinking. Whether you're an aspiring artist, a seasoned professional, or simply someone looking to spark their creative side, Creative Corner offers inspiration, tips, and stories that will ignite your passion.
+          Welcome to Creative Corner, a space where imagination meets reality. Here, we explore the world of creativity—from art and design to innovative ideas and creative thinking. Whether you are an aspiring artist, a seasoned professional, or simply someone looking to spark their creative side, Creative Corner offers inspiration, tips, and stories that will ignite your passion.
           </p>
         </div>
         
