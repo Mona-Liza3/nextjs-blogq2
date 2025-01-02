@@ -3,7 +3,7 @@ import Image from 'next/image'
 import card01 from "@/app/Public/download (3).jpeg"
 import card02 from "@/app/Public/download(7).jpeg"
 import card03 from "@/app/Public/download (8).jpeg"
-import card04 from "@/app/Public/download (6).jpeg"
+import card04 from "@/app/Public/cool cars wallpapers for desktop (2).jpeg"
 import Link from 'next/link'
 const Card = () => {
   return (
@@ -84,21 +84,21 @@ const Card = () => {
 
           {/* Card 4 */}
           <div className="bg-gray-400 hover:bg-pink-300 p-6 rounded-lg">
-            <Image
+           <Link href="/Car"> <Image
               className="h-40 rounded w-full object-cover object-center mb-6"
               src={card04}
               alt="content"
             />
             <h3 className="tracking-widest text-indigo-500 text-xs font-medium title-font">
-              SUBTITLE
+              CARS
             </h3>
             <h2 className="text-lg text-gray-900 font-medium title-font mb-4">
-              San Francisco
+            Driven Chronicles
             </h2>
             <p className="leading-relaxed text-base">
               Fingerstache flexitarian street art 8-bit waistcoat. Distillery
               hexagon disrupt edison bulbche.
-            </p>
+            </p></Link>
           </div>
         </div>
       </div>

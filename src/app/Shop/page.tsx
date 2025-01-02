@@ -44,12 +44,15 @@ const page = () => {
               src="https://images.unsplash.com/photo-1552374196-1ab2a1c593e8?auto=format&q=75&fit=crop&crop=top&w=600&h=700"
               loading="lazy"
               alt="Photo by Austin Wade"
+              width={150}
+              height={100}
               className="h-96 w-full object-cover object-center transition duration-200 group-hover:scale-110"
             />
             <div className="flex flex-col p-4">
               <span className="text-gray-500">Men</span>
               <Link
                 href="#"
+                
                 className="text-lg font-bold text-gray-800 transition duration-100 hover:text-gray-500 lg:text-xl"
               >
                 Business Casual
@@ -62,6 +65,8 @@ const page = () => {
             <Image
               src="https://images.unsplash.com/photo-1603344797033-f0f4f587ab60?auto=format&q=75&fit=crop&crop=top&w=600&h=700"
               loading="lazy"
+              width={150}
+              height={100}
               alt="Photo by engin akyurt"
               className="h-96 w-full object-cover object-center transition duration-200 group-hover:scale-110"
             />
@@ -81,6 +86,8 @@ const page = () => {
             <Image
               src="https://images.unsplash.com/photo-1552668693-d0738e00eca8?auto=format&q=75&fit=crop&crop=top&w=600&h=700"
               loading="lazy"
+              width={150}
+              height={100}
               alt="Photo by Austin Wade"
               className="h-96 w-full object-cover object-center transition duration-200 group-hover:scale-110"
             />
@@ -100,6 +107,8 @@ const page = () => {
             <Image
               src="https://images.unsplash.com/photo-1560269999-cef6ebd23ad3?auto=format&q=75&fit=crop&w=600&h=700"
               loading="lazy"
+              width={150}
+              height={100}
               alt="Photo by Austin Wade"
               className="h-96 w-full object-cover object-center transition duration-200 group-hover:scale-110"
             />

@@ -14,8 +14,8 @@ const Navbar = () => {
       <nav className="bg-gray-800  md:border-pink-4 text-white p-4 md:flex md:justify-between md:items-center">
         <div className="container mx-3 flex justify-between items-center">
           {/* Logo */}
-          <Link href="/" className="text-2xl text-white font-bold">
-            AYYAZtech
+          <Link href="/" className="text-2xl text-white font-bold italic">
+            Creative<span className="text-pink-400 italic">Corner</span>
           </Link>
           
 
@@ -28,7 +28,7 @@ const Navbar = () => {
             <Link href="/" className="mx-2 hover:text-pink-300 ">
               Home
             </Link>
-            <Link href="#" className="mx-2 hover:text-pink-300 ">
+            <Link href="/About" className="mx-2 hover:text-pink-300 ">
               About
             </Link>
             <Link href="/Shop" className="mx-2 hover:text-pink-300">
@@ -42,7 +42,7 @@ const Navbar = () => {
               onClick={() => setIsOpen(!isOpen)}
               aria-label="Toggle Navigation"
             >
-              <GiHamburgerMenu className="hover:text-pink-300" />
+              <GiHamburgerMenu className="hover:text-pink-300  mr-2" />
             </button>
           </div>
         </div>
