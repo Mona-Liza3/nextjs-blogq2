@@ -19,13 +19,13 @@ const Carblog = () => {
           <h2 className='font-bold text-3xl py-2'>Introduction</h2>
           <p className='text-lg mb-4'>
 
-          Imagine stepping into a world where every car dealer website is a sleek, digital powerhouse. That's where we're headed, and I'm your guide on this ride. Dealer website design isn't just about looks; it's the engine driving online success, blending automotive web development with smart digital marketing for a turbocharged online presence.
+          Imagine stepping into a world where every car dealer website is a sleek, digital powerhouse. That&apos;s where we&apos;re headed, and I&apos;m your guide on this ride. Dealer website design isn't just about looks; it&apos;s the engine driving online success, blending automotive web development with smart digital marketing for a turbocharged online presence.
           </p>
-          <p className='text-lg mb-4'>In this space, your website is your virtual showroom. Get this: Virtual showroom interface, user engagement features, online vehicle listing design – they're all tools in the digital toolkit. They make browsers into buyers and clicks into contracts. And here's the thing, you don't need to be a tech wizard to understand its magic.
+          <p className='text-lg mb-4'>In this space, your website is your virtual showroom. Get this: Virtual showroom interface, user engagement features, online vehicle listing design – they&apos;re all tools in the digital toolkit. They make browsers into buyers and clicks into contracts. And here&apos;s the thing, you don&apos;t need to be a tech wizard to understand its magic.
 
 </p>
 <p>
-By the end of this article, you'll be armed with killer dealer website design examples that spark ideas and ignite plans. We'll unpack automotive website themes and dive into dealer site layout strategies that are as effective as they're impressive—no fluff, just drive. Buckle up; your digital transformation begins now.
+By the end of this article, you&apos;ll be armed with killer dealer website design examples that spark ideas and ignite plans. We&apos;ll unpack automotive website themes and dive into dealer site layout strategies that are as effective as they&apos;re impressive—no fluff, just drive. Buckle up; your digital transformation begins now.
 </p>
          
           

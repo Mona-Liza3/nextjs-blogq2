@@ -1,6 +1,5 @@
 import React from 'react'
-import hermoine from "@/app/Public/Hermione Granger - Anatomy.jpeg"
-import Image from 'next/image'
+
 import Carhero from './carhero'
 import Carblog from './Carblog'
 import Cargallery from './Cargallery'
@@ -13,7 +12,6 @@ const Car = () => {
 <Carblog/>
 <Cargallery/>
 
-<giscus></giscus>
   {/* enable: false
   repo: # Github repository name
   repo_id: # Github repository id
